@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1571677284 source:c:\code_blocks_programs\ai_demo\main.cpp
+	"Diagnosis.h"
+	"Treatment.h"
+
+1571693523 c:\code_blocks_programs\ai_demo\include\diagnosis.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<string>
+	<cstring>
+	<cstdio>
+	<conio.h>
+
+1571681534 c:\code_blocks_programs\ai_demo\include\treatment.h
+	<cstdlib>
+	<iomanip>
+	<string>
+	<cstdio>
+	<conio.h>
+	"Queue.h"
+
+1571677997 c:\code_blocks_programs\ai_demo\include\queue.h
+	<iostream>
+	<cstring>
+
